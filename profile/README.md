@@ -14,9 +14,9 @@ By opening our codebase, we’re inviting builders, devs, and security enthusias
 Let’s protect the Solana ecosystem — one commit at a time.
 
 ### Repository
-- Foundation: this week
-- Docs: this week
-- SDK: soon
+- Core: https://github.com/Ward-AI-Organization/ward-core
+- SDK w/ docs: up next
+- Starter docs: this week
 
 ### Crypto Links
 - <a href="https://dexscreener.com/solana/HHe76F2iWTj8h9RzrEmMZc3YrW1mXmAkwZ3iMszTpump">Dexscreener</a>
