@@ -15,7 +15,7 @@ Let’s protect the Solana ecosystem — one commit at a time.
 
 ### Repository
 - Core: https://github.com/Ward-AI-Organization/ward-core
-- SDK w/ docs: up next
+- SDK: https://github.com/Ward-AI-Organization/ward-sdk-kit
 - Starter docs: this week
 
 ### Crypto Links
